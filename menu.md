@@ -16,8 +16,13 @@ Served with a pile of coffee beans.
 - Price: $15
 
 
-#### lettuce
+#### Brick of Caffeine
+- A brick of raw caffeine
+- price: $20
 
-- price: $100
+
+### One Dollar Energy Drink
+- What is it? It's only a dollar! Just try it!!
+- $1
 
 ![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
