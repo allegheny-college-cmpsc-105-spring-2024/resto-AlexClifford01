@@ -17,12 +17,15 @@ Served with a pile of coffee beans.
 
 
 #### Brick of Caffeine
+![caffeine](assets/images/Caffeine_structure.png){:width="200"}
 - A brick of raw caffeine
 - price: $20
 
 
 ### One Dollar Energy Drink
+![download](assets/images/download.png){:width="200"}
+
 - What is it? It's only a dollar! Just try it!!
 - $1
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+
