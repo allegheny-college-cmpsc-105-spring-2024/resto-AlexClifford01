@@ -1,21 +1,31 @@
 ---
 layout: page
-title: amazing menu
+title: Menu
 permalink: /menu
 nav: true
 ---
 
-## menu
+## Our Selections
 
-this is the menu
+### Potion of Wakefulness
+![coffee](./assets/images/coffee.jpg){:width="200"}
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+- This is an excellent brew to make you feel energized and focused. We use real coffee beans to give it an amazing flavor and lots of caffeine. 
+Served with a pile of coffee beans. 
 
-### menu item 1
+- Price: $15
 
-#### lettuce
 
-- price: $100
+#### Brick of Caffeine
+![caffeine](assets/images/Caffeine_structure.png){:width="200"}
+- A brick of raw caffeine
+- price: $20
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+
+### One Dollar Energy Drink
+![download](assets/images/download.png){:width="200"}
+
+- What is it? It's only a dollar! Just try it!!
+- $1
+
+
