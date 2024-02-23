@@ -7,12 +7,12 @@ nav: true
 
 ## menu
 
-this is the menu
+### Potion of Wakefulness
+![coffee](./assets/images/coffee.jpg){:width="200"}
+This is an excellent brew to make you feel energized and focused. We use real coffee beans to give it an amazing flavor and lots of caffeine. 
+Served with a pile of coffee beans. 
+- Price: $15
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
-
-### menu item 1
 
 #### lettuce
 
