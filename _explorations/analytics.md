@@ -5,7 +5,7 @@ permalink: explorations/analytics
 nav: true
 ---
 
-![analytic](./assets/images/analytic.png){:width="200"}
+![analytic](../assets/images/analytic.png){:width="200"}
 
 The above plot tracks the amount of users over the past several weeks. 
 
