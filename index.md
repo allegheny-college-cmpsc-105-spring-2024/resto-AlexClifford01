@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "about"
+title: "Energy Drink Emporium"
 ---
 
-# Energy Drink Emporium
+# Get Your Energy Drinks Here
 
 ## <span style="color:green">Who We Are</span>
 We offer all the best caffeine containing drinks and foods. 
