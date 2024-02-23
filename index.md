@@ -20,6 +20,7 @@ We have better drinks and food than the competition. Visit us now for our grand 
 Do not get too energized! (Also, if you have too much caffeine it is not our fault).
 
 ## Reviews
-"The energy drink emporium is so cool! It is very cool!" -Person who consumes our energy drinks
-"I LOVE CAFFEINE!" -The latest customer to purchase the potion of wakefulness
+- "The energy drink emporium is so cool! It is very cool!" -Person who consumes our energy drinks
+
+- "I LOVE CAFFEINE!" -The latest customer to purchase the potion of wakefulness
 
