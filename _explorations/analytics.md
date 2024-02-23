@@ -5,7 +5,8 @@ permalink: explorations/analytics
 nav: true
 ---
 
-- ![analytics](./assets/images/analytic.png){:width="200"}
+![analytic](./assets/images/analytic.png){:width="200"}
+
 The above plot tracks the amount of users over the past several weeks. 
 
 Data on the amount of users is a big part of the google analytics dashboard. The amount of users is plotted against time on
